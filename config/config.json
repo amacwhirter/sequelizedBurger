@@ -16,8 +16,8 @@
   "production": {
     "username": "ta37tgdih6sswdv0",
     "password": "pt9qxf2sgldte2wg",
-    "database": "	s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "host": "127.0.0.1",
+    "database": "burgerSeq",
+    "host": "s54ham9zz83czkff.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
