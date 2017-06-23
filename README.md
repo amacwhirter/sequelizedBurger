@@ -2,7 +2,7 @@
 Georgia Tech Week 15 - Burger App Using Sequelize
 
  ```
-A burger logger with MySQL, Node, Express, Handlebars and sequelize. 
+A burger logger with MySQL, Node, Express, Handlebars and Sequelize. 
 Add a burger you'd love to chow down, then devour it! Keeps track of burgers you want 
 to devour, and burgers you have already devoured.
 Follows the MVC design pattern and uses Node and MySQL to query and route data in the app, 
